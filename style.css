@@ -1,0 +1,43 @@
+body {
+  background-color: darkred;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+  text-align: center;
+  padding: 0;
+}
+
+.wrapper {
+  margin: 10px auto;
+  max-width: 300px;
+  padding: 30px;
+  border-radius: 8px double white;
+}
+
+
+.pinguin {
+ width: 100px;
+ height: 100px;
+ background-color:dark;
+ margin: 0 auto;cd
+
+}
+
+
+
+
+
+
+
+h1 {
+  font-size: 60px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: normal;
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+h1 span {
+  display: block;
+  font-size: 50%;
+}
